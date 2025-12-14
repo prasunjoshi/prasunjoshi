@@ -44,7 +44,7 @@ Senior Backend Engineer with **7+ years of experience** building scalable, distr
 - API development for Freshdesk using **AWS, MySQL, and Redis**
 - Contributed to scaling backend infrastructure
 
-> **Previous roles:** Senior Software Engineer @ Crunchbase, Accenture, Quince | Full experience on [LinkedIn](https://www.linkedin.com/in/prasun-joshi/)
+> **Previous roles:** Senior Software Engineer @ Cisco, Accenture | Full experience on [LinkedIn](https://www.linkedin.com/in/prasun-joshi/)
 
 ---
 
