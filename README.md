@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasun-joshi/)
 [![Location](https://img.shields.io/badge/Berlin-Germany-red?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Berlin)
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-green?style=for-the-badge)](https://www.linkedin.com/in/prasun-joshi/)
 
 </div>
 
