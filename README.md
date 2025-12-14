@@ -92,20 +92,6 @@ Senior Backend Engineer with **7+ years of experience** building scalable, distr
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Prasun's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasunjoshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasunjoshi&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prasunjoshi&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education
 
 🎓 **Master of Technology (M.Tech)** in Information Technology  
