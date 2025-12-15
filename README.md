@@ -187,9 +187,6 @@ func main() {
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:prasun.joshi@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/prasunjoshi)
 
-### 💼 Open to exciting opportunities in:
-**Senior Software Engineering** | **Backend Engineering** | **Data Engineering** | **Distributed Systems**
-
 </div>
 
 ---
